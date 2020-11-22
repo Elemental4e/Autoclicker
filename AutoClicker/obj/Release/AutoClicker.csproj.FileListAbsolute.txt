@@ -1,0 +1,17 @@
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\bin\Release\MouseCommands.dll
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\bin\Release\MouseCommands.pdb
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.Autoclicker.resources
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.Properties.Resources.resources
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.GenerateResource.cache
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.csproj.CopyComplete
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.csprojAssemblyReference.cache
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe.manifest
+C:\Users\Enni\source\repos\AutoClicker\AutoClicker\obj\Release\AutoClicker.application
